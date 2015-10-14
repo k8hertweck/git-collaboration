@@ -1,14 +1,14 @@
 ##New_Zealand
-## population
+## population - 4.471 million
 
 
-## capital
+## capital - Wellington
 
  
-## official language
+## official language - English
 
 
-## interesting trivia
+## interesting trivia - The forests were dominated by birds, and the lack of mammalian predators led to some like the kiwi, kakapo and takahē evolving flightlessness.
 
 
 
