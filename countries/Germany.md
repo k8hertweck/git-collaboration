@@ -1,14 +1,14 @@
 ##Germany
-## population
+## population estimate of 2014: 81,083,600
 
 
-## capital
+## capital Berlin
 
  
-## official language
+## official language German
 
 
-## interesting trivia
+## interesting trivia 
 
 
 
