@@ -11,6 +11,6 @@ Basseterre
 English
 
 ## interesting trivia
-Home of Ross University School Veterinary Medicine
+Home of Ross University School of Veterinary Medicine
 
 
