@@ -1,14 +1,14 @@
 ##Ireland_{Republic}
-## population
+## population 5.6 million
 
 
-## capital
+## capital Dublin
 
  
-## official language
+## official language Irish, English
 
 
-## interesting trivia
+## interesting trivia First country to have two consecutive female heads of state.
 
 
 
