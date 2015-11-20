@@ -1,14 +1,14 @@
 ##Israel
-## population
+## population 8,238,300
 
 
-## capital
+## capital Jerusalem
 
  
-## official language
+## official language Hebrew
 
 
-## interesting trivia
+## interesting trivia: the only democracy in the middle east
 
 
 
